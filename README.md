@@ -1,0 +1,2 @@
+# myscrapy
+scrap some news
